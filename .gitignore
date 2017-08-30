@@ -1,0 +1,13 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/packages
+
+# testing
+
+# production
+/Wikipedia_SP500_10Q_Downloader/bin
+
+# intermediate
+/Wikipedia_SP500_10Q_Downloader/obj
+
